@@ -11,4 +11,4 @@ You can simple use laravel auth or passport,
 
 Just make sure your tests can by using this command,
 
-docker exec CONTAINER_ID sh -c "php vendor/phpunit/phpunit/phpunit"
+``` docker exec CONTAINER_ID sh -c "php vendor/phpunit/phpunit/phpunit" ```
