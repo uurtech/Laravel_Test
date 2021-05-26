@@ -1,6 +1,6 @@
 ## About Task
 
-Please create a fork with this repo and share your repository via email.
+Please create a fork with this repo and share your repository via email. and make sure you commit on every time you implement or tests something ( follow micro-commit approach ) 
 
 Testing User Login with these three conditions.
 - User Credentials are correct
